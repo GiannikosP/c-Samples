@@ -1,0 +1,48 @@
+C:\Users\Kypros\source\repos\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe.config
+C:\Users\Kypros\source\repos\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe
+C:\Users\Kypros\source\repos\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.pdb
+C:\Users\Kypros\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csprojAssemblyReference.cache
+C:\Users\Kypros\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Form1.resources
+C:\Users\Kypros\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Properties.Resources.resources
+C:\Users\Kypros\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.GenerateResource.cache
+C:\Users\Kypros\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.CoreCompileInputs.cache
+C:\Users\Kypros\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.exe
+C:\Users\Kypros\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.pdb
+C:\Users\Kypros\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Form2.resources
+C:\Users\Kypros\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Form3.resources
+C:\Users\Kypros\Desktop\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe.config
+C:\Users\Kypros\Desktop\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe
+C:\Users\Kypros\Desktop\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.pdb
+C:\Users\Kypros\Desktop\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csprojAssemblyReference.cache
+C:\Users\Kypros\Desktop\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Form1.resources
+C:\Users\Kypros\Desktop\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Form2.resources
+C:\Users\Kypros\Desktop\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Form3.resources
+C:\Users\Kypros\Desktop\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Properties.Resources.resources
+C:\Users\Kypros\Desktop\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.GenerateResource.cache
+C:\Users\Kypros\Desktop\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.CoreCompileInputs.cache
+C:\Users\Kypros\Desktop\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.exe
+C:\Users\Kypros\Desktop\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.pdb
+D:\unipi\c#\WindowsFormsApp10\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csprojResolveAssemblyReference.cache
+D:\unipi\c#\WindowsFormsApp10\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Form1.resources
+D:\unipi\c#\WindowsFormsApp10\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Form2.resources
+D:\unipi\c#\WindowsFormsApp10\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Form3.resources
+D:\unipi\c#\WindowsFormsApp10\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Properties.Resources.resources
+D:\unipi\c#\WindowsFormsApp10\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.GenerateResource.cache
+D:\unipi\c#\WindowsFormsApp10\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.CoreCompileInputs.cache
+D:\unipi\c#\WindowsFormsApp10\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.exe
+D:\unipi\c#\WindowsFormsApp10\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.pdb
+D:\unipi\c#\WindowsFormsApp10\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe.config
+D:\unipi\c#\WindowsFormsApp10\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe
+D:\unipi\c#\WindowsFormsApp10\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.pdb
+C:\Users\Kypros\Desktop\New folder\WindowsFormsApp10\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe.config
+C:\Users\Kypros\Desktop\New folder\WindowsFormsApp10\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe
+C:\Users\Kypros\Desktop\New folder\WindowsFormsApp10\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.pdb
+C:\Users\Kypros\Desktop\New folder\WindowsFormsApp10\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csprojAssemblyReference.cache
+C:\Users\Kypros\Desktop\New folder\WindowsFormsApp10\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Form1.resources
+C:\Users\Kypros\Desktop\New folder\WindowsFormsApp10\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Form2.resources
+C:\Users\Kypros\Desktop\New folder\WindowsFormsApp10\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Form3.resources
+C:\Users\Kypros\Desktop\New folder\WindowsFormsApp10\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Properties.Resources.resources
+C:\Users\Kypros\Desktop\New folder\WindowsFormsApp10\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.GenerateResource.cache
+C:\Users\Kypros\Desktop\New folder\WindowsFormsApp10\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.CoreCompileInputs.cache
+C:\Users\Kypros\Desktop\New folder\WindowsFormsApp10\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.exe
+C:\Users\Kypros\Desktop\New folder\WindowsFormsApp10\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.pdb
