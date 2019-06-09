@@ -1,0 +1,10 @@
+D:\downloads\Νέος φάκελος-20181109T151604Z-001\Νέος φάκελος\MiniPaint\bin\Debug\MiniPaint.exe
+D:\downloads\Νέος φάκελος-20181109T151604Z-001\Νέος φάκελος\MiniPaint\bin\Debug\MiniPaint.pdb
+D:\downloads\Νέος φάκελος-20181109T151604Z-001\Νέος φάκελος\MiniPaint\obj\Debug\paintproj.csprojResolveAssemblyReference.cache
+D:\downloads\Νέος φάκελος-20181109T151604Z-001\Νέος φάκελος\MiniPaint\obj\Debug\MiniPaint.About.resources
+D:\downloads\Νέος φάκελος-20181109T151604Z-001\Νέος φάκελος\MiniPaint\obj\Debug\MiniPaint.Form1.resources
+D:\downloads\Νέος φάκελος-20181109T151604Z-001\Νέος φάκελος\MiniPaint\obj\Debug\MiniPaint.Properties.Resources.resources
+D:\downloads\Νέος φάκελος-20181109T151604Z-001\Νέος φάκελος\MiniPaint\obj\Debug\paintproj.csproj.GenerateResource.cache
+D:\downloads\Νέος φάκελος-20181109T151604Z-001\Νέος φάκελος\MiniPaint\obj\Debug\paintproj.csproj.CoreCompileInputs.cache
+D:\downloads\Νέος φάκελος-20181109T151604Z-001\Νέος φάκελος\MiniPaint\obj\Debug\MiniPaint.exe
+D:\downloads\Νέος φάκελος-20181109T151604Z-001\Νέος φάκελος\MiniPaint\obj\Debug\MiniPaint.pdb
